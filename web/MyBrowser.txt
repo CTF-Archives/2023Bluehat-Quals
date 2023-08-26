@@ -1,0 +1,7 @@
+当前分值
+1000 pt (您已攻克)
+赛题描述
+我开发了一款简易浏览器，保证不会再有XSS了，你可以访问任何链接，不想来试试吗？
+赛题场景
+提示：try to find suid program under /, for example like /readflag .etc
+提示：unserialize

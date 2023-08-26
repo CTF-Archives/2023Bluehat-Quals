@@ -1,0 +1,7 @@
+当前分值
+165 pt (您已攻克)
+赛题描述
+单纯的取证
+检材：http://dl.qianxin.com/vi9p1ck5-i5ol-fk61/mem/mem.raw
+Flag
+******
